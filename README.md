@@ -125,7 +125,7 @@ The model predicts house prices with good accuracy after training and evaluation
 
 ## 👨‍💻 Author
 
-Your Name
+K.Naga Harshitha
 
 ---
 
